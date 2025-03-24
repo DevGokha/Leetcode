@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 ## Counting
 |  |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
