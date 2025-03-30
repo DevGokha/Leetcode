@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DevGokha/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevGokha/Leetcode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -90,4 +91,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
