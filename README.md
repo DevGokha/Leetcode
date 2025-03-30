@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DevGokha/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DevGokha/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevGokha/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -28,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DevGokha/Leetcode/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
 |  |
 | ------- |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 |  |
 | ------- |
