@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/DevGokha/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DevGokha/Leetcode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -114,4 +116,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
