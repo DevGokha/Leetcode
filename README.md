@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/DevGokha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
