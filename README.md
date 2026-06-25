@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/DevGokha/Leetcode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/DevGokha/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
