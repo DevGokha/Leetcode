@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/DevGokha/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-finding-3-digit-even-numbers](https://github.com/DevGokha/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/DevGokha/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
