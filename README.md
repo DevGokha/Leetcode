@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/DevGokha/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0136-single-number](https://github.com/DevGokha/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/DevGokha/Leetcode/tree/master/0001-two-sum) |
 | [0138-copy-list-with-random-pointer](https://github.com/DevGokha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -54,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
@@ -86,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
