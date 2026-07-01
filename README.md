@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DevGokha/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/DevGokha/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/DevGokha/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/DevGokha/Leetcode/tree/main/0705-design-hashset/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/DevGokha/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/DevGokha/Leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/DevGokha/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0705-design-hashset](https://github.com/DevGokha/Leetcode/tree/main/0705-design-hashset/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -147,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/DevGokha/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/DevGokha/Leetcode/tree/main/0705-design-hashset/) | Easy |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0705-design-hashset](https://github.com/DevGokha/Leetcode/tree/main/0705-design-hashset/) | Easy |
 <!---LeetCode Topics End-->
