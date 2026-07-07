@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/DevGokha/Leetcode/tree/master/0394-decode-string) |
 | [0820-short-encoding-of-words](https://github.com/DevGokha/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
+| [3110-score-of-a-string](https://github.com/DevGokha/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
 |  |
 | ------- |
