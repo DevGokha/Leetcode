@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/DevGokha/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/DevGokha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/DevGokha/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DevGokha/Leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -228,10 +229,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/DevGokha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0394-decode-string](https://github.com/DevGokha/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/DevGokha/Leetcode/tree/main/0682-baseball-game/) | Easy |
 ## Greedy
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/DevGokha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DevGokha/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
