@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/DevGokha/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2215-finding-3-digit-even-numbers](https://github.com/DevGokha/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2678-number-of-senior-citizens](https://github.com/DevGokha/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
 |  |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0720-longest-word-in-dictionary](https://github.com/DevGokha/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0820-short-encoding-of-words](https://github.com/DevGokha/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/DevGokha/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2678-number-of-senior-citizens](https://github.com/DevGokha/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/DevGokha/Leetcode/tree/master/3110-score-of-a-string) |
 ## Simulation
