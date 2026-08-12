@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/DevGokha/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/DevGokha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0705-design-hashset](https://github.com/DevGokha/Leetcode/tree/main/0705-design-hashset/) | Easy |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/DevGokha/Leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/DevGokha/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/DevGokha/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/DevGokha/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DevGokha/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/DevGokha/Leetcode/tree/master/0394-decode-string) |
