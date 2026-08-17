@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/DevGokha/Leetcode/tree/main/0706-design-hashmap/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/DevGokha/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0820-short-encoding-of-words](https://github.com/DevGokha/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/DevGokha/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/DevGokha/Leetcode/tree/master/0912-sort-an-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DevGokha/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DevGokha/Leetcode/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/DevGokha/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/DevGokha/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DevGokha/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 ## Trie
 |  |
