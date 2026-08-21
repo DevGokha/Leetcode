@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/DevGokha/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DevGokha/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2560-house-robber-iv](https://github.com/DevGokha/Leetcode/tree/master/2560-house-robber-iv) |
 | [2678-number-of-senior-citizens](https://github.com/DevGokha/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Hash Table
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/DevGokha/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
+| [2560-house-robber-iv](https://github.com/DevGokha/Leetcode/tree/master/2560-house-robber-iv) |
 ## Recursion
 |  |
 | ------- |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/DevGokha/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DevGokha/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/DevGokha/Leetcode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
+| [2560-house-robber-iv](https://github.com/DevGokha/Leetcode/tree/master/2560-house-robber-iv) |
 ## Trie
 |  |
 | ------- |
@@ -273,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/DevGokha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [2560-house-robber-iv](https://github.com/DevGokha/Leetcode/tree/master/2560-house-robber-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
