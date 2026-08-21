@@ -22,5 +22,4 @@ class Solution:
             nums1[k] = nums1[i]
             i -= 1
             k -= 1
-
-        
+       
