@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DevGokha/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/DevGokha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/DevGokha/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/DevGokha/Leetcode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/DevGokha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/DevGokha/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/DevGokha/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/DevGokha/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DevGokha/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/DevGokha/Leetcode/tree/master/0441-arranging-coins) |
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/DevGokha/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DevGokha/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DevGokha/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0720-longest-word-in-dictionary](https://github.com/DevGokha/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0912-sort-an-array](https://github.com/DevGokha/Leetcode/tree/master/0912-sort-an-array) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DevGokha/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## String
 |  |
@@ -221,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/DevGokha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/DevGokha/Leetcode/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevGokha/Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DevGokha/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/DevGokha/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0441-arranging-coins](https://github.com/DevGokha/Leetcode/tree/master/0441-arranging-coins) |
