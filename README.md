@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/DevGokha/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/DevGokha/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/DevGokha/Leetcode/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/DevGokha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/DevGokha/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/DevGokha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/DevGokha/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DevGokha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/DevGokha/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/DevGokha/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/DevGokha/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/DevGokha/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
 | [2560-house-robber-iv](https://github.com/DevGokha/Leetcode/tree/master/2560-house-robber-iv) |
