@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/DevGokha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/DevGokha/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0820-short-encoding-of-words](https://github.com/DevGokha/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
+| [1021-remove-outermost-parentheses](https://github.com/DevGokha/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DevGokha/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DevGokha/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/DevGokha/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DevGokha/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/DevGokha/Leetcode/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/DevGokha/Leetcode/tree/main/0682-baseball-game/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/DevGokha/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DevGokha/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/DevGokha/Leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/DevGokha/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
