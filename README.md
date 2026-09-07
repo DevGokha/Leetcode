@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/DevGokha/Leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/DevGokha/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 ## Counting
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/DevGokha/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/DevGokha/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/DevGokha/Leetcode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/DevGokha/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2678-number-of-senior-citizens](https://github.com/DevGokha/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/DevGokha/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3110-score-of-a-string](https://github.com/DevGokha/Leetcode/tree/master/3110-score-of-a-string) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0680-valid-palindrome-ii](https://github.com/DevGokha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/DevGokha/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2560-house-robber-iv](https://github.com/DevGokha/Leetcode/tree/master/2560-house-robber-iv) |
 ## Bracket Sequences
 | Problem Name | Difficulty |
