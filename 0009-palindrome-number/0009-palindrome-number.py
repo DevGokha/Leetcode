@@ -5,9 +5,7 @@ class Solution:
         r =0
         while x>0:
             digit = x%10
-            x//=10
             r = r*10 +digit
-        if r==o:
-            return True
-        else:
-            return False
+            x//=10
+        return o == r
+        
