@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/DevGokha/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DevGokha/Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/DevGokha/Leetcode/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
+| [1480-running-sum-of-1d-array](https://github.com/DevGokha/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DevGokha/Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/DevGokha/Leetcode/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/DevGokha/Leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/DevGokha/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/DevGokha/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
