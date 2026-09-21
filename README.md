@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/DevGokha/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DevGokha/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/DevGokha/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1925-count-nice-pairs-in-an-array](https://github.com/DevGokha/Leetcode/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/DevGokha/Leetcode/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DevGokha/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/DevGokha/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
