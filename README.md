@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DevGokha/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/DevGokha/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/DevGokha/Leetcode/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/DevGokha/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0441-arranging-coins](https://github.com/DevGokha/Leetcode/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/DevGokha/Leetcode/tree/master/1013-fibonacci-number) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DevGokha/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/DevGokha/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0394-decode-string](https://github.com/DevGokha/Leetcode/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/DevGokha/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0680-valid-palindrome-ii](https://github.com/DevGokha/Leetcode/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0720-longest-word-in-dictionary](https://github.com/DevGokha/Leetcode/tree/master/0720-longest-word-in-dictionary) |
 | [0820-short-encoding-of-words](https://github.com/DevGokha/Leetcode/tree/main/0820-short-encoding-of-words/) | Medium |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/DevGokha/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0682-baseball-game](https://github.com/DevGokha/Leetcode/tree/main/0682-baseball-game/) | Easy |
 | [1929-concatenation-of-array](https://github.com/DevGokha/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/DevGokha/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
